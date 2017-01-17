@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Domain</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_bed_bath_car">"%1$s Bed, %2$s Bath, %3$s Car"</string>
+    <string name="label_error">Error retrieving data</string>
+</resources>
